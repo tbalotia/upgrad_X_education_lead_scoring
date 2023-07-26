@@ -1,6 +1,6 @@
 # X Education Lead Scoring Assignment
 ## Background
-X Education is an online education company that offers various courses and training programs to potential customers through its website. The marketing and sales team at X Education faces challenges in converting website visitors into leads, and ultimately, into paying customers. To address this, the company is interested in implementing a lead scoring model that can prioritize potential leads and help the sales team focus their efforts on the most promising prospects.
+X Education is an online education company that offers various courses and training programs to potential customers through its website. The sales team at X Education faces challenges in converting website visitors into leads, and ultimately, into paying customers. To address this, the company is interested in implementing a lead scoring model that can prioritize potential leads and help the sales team focus their efforts on the most promising prospects.
 
 ## Problem Statement
 The goal of this assignment is to build a logistic regression model for lead scoring that can predict the likelihood of a website visitor getting converted into a paying customer. The model will be trained on historical data of leads and their conversion status, and it will be used to predict the probability of conversion for new website visitors.
